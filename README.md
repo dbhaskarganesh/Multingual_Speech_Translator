@@ -1,6 +1,4 @@
-Certainly! Here's a simplified README for a Multilingual Speech Translator project:
-
----
+ 
 
 # Multilingual Speech Translator 🗣️🌍
 
